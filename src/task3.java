@@ -14,6 +14,7 @@ public class task3 {
 
         if (a<30000&a>0) System.out.println(isYearVisososniy(a));
         else System.out.println("Введите число из заданного диапазона!");
+
     }
 }
 
